@@ -4,6 +4,7 @@ Hello, ill leave the explanation of everything done in the proyect with the foll
 1 - What things would you have liked to do but didn't do?
 2 - What things did you do but you think could be improved or would be necessary to return to them if the project goes ahead.
 3 - What third-party libraries have you used and why.
+4 - How much time we have invested in doing the project and what things you have had to research and what things were new to you.
 
 	The proyect adheres to the requirements for clean code, thorough testing, and .NET Core standards. 
 	It emphasizes readability, maintainability, and extensibility through proper abstractions and error handling.
@@ -37,3 +38,9 @@ Both the testing and the main proyect are left with a blanck .cs file in case th
 	It's used in the tests to mock the behavior of repository interfaces and isolate the service logic.
 
 	* xUnit: xUnit is a free, open-source, community-focused unit testing tool for .NET. It is used to write and run tests.
+
+4 - How much time we have invested in doing the project and what things you have had to research and what things were new to you.
+
+	Regarding how much time was invested in the proyect, betwen coding and testing arround 2 days. 
+	As for the thigs that i had to investigate, xUnit and Moq were new to me.
+	The creation of test cases, dobles, test setup and most of test related coding.
