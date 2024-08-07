@@ -5,9 +5,11 @@ Hello, ill leave the explanation of everything done in the proyect with the foll
 2 - What things did you do but you think could be improved or would be necessary to return to them if the project goes ahead.
 3 - What third-party libraries have you used and why.
 
-The proyect adheres to the requirements for clean code, thorough testing, and .NET Core standards. 
-It emphasizes readability, maintainability, and extensibility through proper abstractions and error handling.
-The testing approach ensures that the code is correct and serves as a self-explanatory guide to the program's functionality.
+	The proyect adheres to the requirements for clean code, thorough testing, and .NET Core standards. 
+	It emphasizes readability, maintainability, and extensibility through proper abstractions and error handling.
+	The testing approach ensures that the code is correct and serves as a self-explanatory guide to the program's functionality.
+
+Both the testing and the main proyect are left with a blanck .cs file in case that specific tests needs to be run.
 
 1 - What things would you have liked to do but didn't do?
 
